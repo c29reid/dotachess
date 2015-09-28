@@ -1,0 +1,13 @@
+"AddonInfo"
+{
+	maps			"chess bw_chess"
+	"IsPlayable"	"1"
+	"bw_chess"
+	{
+					"MaxPlayers"                    "2"
+	}
+	"chess"
+	{
+					"MaxPlayers"                    "2"
+	}
+}

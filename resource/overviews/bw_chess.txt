@@ -1,0 +1,8 @@
+bw_chess
+{
+	material materials/overviews/bw_chess.vmat
+	pos_x 1728
+	pos_y 1498
+	scale 1.976
+}
+

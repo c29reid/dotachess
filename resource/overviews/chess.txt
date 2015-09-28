@@ -1,0 +1,9 @@
+chess
+{
+	material materials/overviews/chess.vmat
+	pos_x 1716
+	pos_y 1510
+	scale 1.000
+	zoom 1.05
+}
+
