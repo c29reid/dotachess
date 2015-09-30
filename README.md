@@ -5,6 +5,6 @@ This mod can also be downloaded at https://steamcommunity.com/sharedfiles/filede
 
 Installation <br>
 --------------- <br>
-This repository needs to be placed in <DOTA ROOT>/game/dota_addons
+This repository needs to be placed in ${DOTA ROOT}/game/dota_addons
 
 
